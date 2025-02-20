@@ -42,7 +42,7 @@ cd MazeRunnerGame
 
 ## Compile the Code:
 ``` bash
-g++ -o maze_runner main.cpp game.cpp maze.cpp position.cpp -std=c++11
+g++ -o maze_runner Main.cpp Game.cpp Maze.cpp Position.cpp Game.h Maze.h Position.h  -std=c++11
 ```
 
 ## Run the Game:
