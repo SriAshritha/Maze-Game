@@ -17,8 +17,8 @@ This project is a **C++-based Maze Runner Game**, developed as part of an **Obje
 ## 🚀 How to Run  
 Clone the Repository:  
 ```bash
-git clone https://github.com/yourusername/MazeRunnerGame.git
-cd MazeRunnerGame
+git clone https://github.com/SriAshritha/Maze-Game.git
+cd Maze-Game
 ```
 
 ## 🎮 Game Description  
